@@ -13,7 +13,7 @@ import at.bitfire.ical4android.AndroidCalendar
 import at.bitfire.ical4android.AndroidEvent
 import at.bitfire.ical4android.util.MiscUtils.asSyncAdapter
 import at.bitfire.synctools.storage.BatchOperation
-import at.bitfire.synctools.storage.CalendarBatchOperation
+import at.bitfire.synctools.storage.calendar.CalendarBatchOperation
 import java.util.LinkedList
 import java.util.logging.Level
 import java.util.logging.Logger
